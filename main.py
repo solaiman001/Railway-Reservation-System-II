@@ -2,7 +2,13 @@
 
 def add(a, b):
   return a+b
-
+  
+def sum_of_array(ar):
+  sum = 0
+  for ele in ar:
+    sum += ele
+  return sum
+  
 def sub(a, b):
   return a-b
 
