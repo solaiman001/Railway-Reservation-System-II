@@ -4,6 +4,7 @@ def add(a, b):
   return a+b
 
 def mul(a, b):
+  """ this function mulply a and b and then return the result """
   return a*b
 
   
@@ -18,6 +19,7 @@ def sub(a, b):
   return a-b
 
 def div(a, b):
+  """ this function take two input and a divide b and return result
   return a/b
 
 
